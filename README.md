@@ -29,6 +29,8 @@
     - [Look at Pending Feedbacks](#look-at-pending-feedbacks)
     - [Look at Canceled Order Queue](#look-at-canceled-order-queue)
     - [Go Back to Main Menu](#go-back-to-main-menu)
+- [Installation Steps](#%EF%B8%8F-installation-steps)
+- [Images Explaning Data Structures](#Images-Explaning-Data-Structures)
 - [Contribution Guidelines](#-contribution-guidelines)
 - [Built with](#-built-with)
 
@@ -114,6 +116,41 @@ Displays and removes canceled orders from the Order Queue.
 
 #### Go Back to Main Menu
 Takes the user back to the Starting Menu screen.
+
+## 🛠️ Installation Steps:
+
+- Clone the Repository
+
+```
+git clone https://github.com/Mohid-Anwar/Pizza-Management-System-DSA.git
+cd Pizza-Management-System-DSA
+```
+
+- Make An Executable File
+
+```
+g++ EndNot.cpp -o output.exe
+```
+
+- Run The Executable
+
+```
+output.exe
+```
+*or* 
+
+Alternatively, you can directly run EndNot.exe
+
+# Images Explaning Data Structures
+
+- *Cancelled Order Queue*
+![Cancelled_Order_Queue](Images/Cancelled_Order_Queue.jpg)
+-  *Customer Linked List*
+![Customer_Linked_List](Images/Customer_Linked_List.jpg)
+- *Feedback Stack*
+![Feedback_Stack](Images/Feedback_Stack.jpg)
+- *Sector Graph*
+![Sector_Graph](Images/Sector_Graph.jpg)
 
 
 # 🍰 Contribution Guidelines:</h2>
