@@ -4,9 +4,9 @@
 <img src="https://socialify.git.ci/Mohid-Anwar/Pizza-Management-System-DSA/image?font=KoHo&language=1&name=1&owner=1&pattern=Brick%20Wall&theme=Auto" alt="Pizza-Management-System-DSA" width="640" height="320" />
 </p>
 
-  ## Table of Contents
+## Table of Contents
 - [Description](#description)
-- [Caution for User Inputs](#Caution-for-user-inputs)
+- [Caution for User Inputs](#caution-for-user-inputs)
 - [Data Structures](#data-structures)
   - [Doubly Customer Linked List](#doubly-customer-linked-list)
   - [Graph (Sectors)](#graph-sectors)
@@ -29,8 +29,9 @@
     - [Look at Pending Feedbacks](#look-at-pending-feedbacks)
     - [Look at Canceled Order Queue](#look-at-canceled-order-queue)
     - [Go Back to Main Menu](#go-back-to-main-menu)
-- [Contribution Guidelines](#-contribution-guidelines)
-- [Built with](#💻-built-with)
+- [Contribution Guidelines](#contribution-guidelines)
+- [Built with](#built-with)
+
 
 ## Description
 Our code is a Pizza Shop Management System allowing users to place orders to specific locations. The system stores all customers and their respective orders. The system is divided into Admin and User sections, and all accounts are password-protected.
