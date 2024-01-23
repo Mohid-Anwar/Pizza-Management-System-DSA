@@ -35,7 +35,7 @@
 ## Description
 Our code is a Pizza Shop Management System allowing users to place orders to specific locations. The system stores all customers and their respective orders. The system is divided into Admin and User sections, and all accounts are password-protected.
 
-### Caution for User Inputs 🚨
+### 🚨 Caution for User Inputs
 Please enter inputs with caution as they directly affect the system's functionality.
 
 ### Colorful CLI Interface
