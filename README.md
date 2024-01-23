@@ -6,7 +6,7 @@
 
   ## Table of Contents
 - [Description](#description)
-- [Caution for User Inputs](#🚨-caution-for-user-inputs)
+- [Caution for User Inputs](#-caution-for-user-inputs)
 - [Data Structures](#data-structures)
   - [Doubly Customer Linked List](#doubly-customer-linked-list)
   - [Graph (Sectors)](#graph-sectors)
@@ -30,7 +30,7 @@
     - [Look at Canceled Order Queue](#look-at-canceled-order-queue)
     - [Go Back to Main Menu](#go-back-to-main-menu)
 - [Contribution Guidelines](#-contribution-guidelines)
-- [Built with](#💻-built-with)
+- [Built with](#-built-with)
 
 
 
